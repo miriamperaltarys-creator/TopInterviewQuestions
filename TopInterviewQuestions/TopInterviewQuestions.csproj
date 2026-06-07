@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Arrays&amp;Srings\" />
+    <Folder Include="LinkedLists\" />
+    <Folder Include="HashTables\" />
+    <Folder Include="Graphs\" />
+    <Folder Include="Sorting&amp;Seraching\" />
+    <Folder Include="Trees\" />
+    <Folder Include="Recursion\" />
+    <Folder Include="Stacks&amp;Queues\" />
+  </ItemGroup>
+
+</Project>
