@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using TopInterviewQuestions.Arrays_Srings;
+
+
+var app = new Two_Sum();
+app.Sum();
