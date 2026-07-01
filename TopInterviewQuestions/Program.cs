@@ -5,5 +5,8 @@
 //app.Sum();
 
 
-var app = new MoveZerosVFinal();
-app.MoveZerosToFinal();
+//var app = new MoveZerosVFinal();
+//app.MoveZerosToFinal();
+
+var app = new SecondLargestElementArray();
+    app.SecongLElement();

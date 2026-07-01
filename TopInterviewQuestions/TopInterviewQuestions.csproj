@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Arrays&amp;Srings\MoveZeroesV1.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="LinkedLists\" />
     <Folder Include="HashTables\" />
     <Folder Include="Graphs\" />
